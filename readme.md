@@ -1,6 +1,6 @@
 ﻿There are two ways to run our code and simulate our results:
 
-**WAY 1: USING DOCKER (BONUS POINTS):**
+**WAY 1: USING DOCKER:**
 
 Note: Make sure your docker desktop is open when you run the below commands in command prompt to not face any errors. If docker desktop is not installed, please install it first and then run the below commands.
 
@@ -23,50 +23,7 @@ After running the image on one of the links generated ***ctrl + right\_click***.
 
 Now open “690\_final\_project.ipynb” file and run the cells. Take note of markdown cells (that are at the very end of the 690\_final\_project.ipynb file) that explain what cell to run to recreate the simulation using our trained model, or to train our model more, or to train the model from scratch.
 
-**WAY 2: WITHIOUT DOCKER**
 
-Extract the zip file, **“weights.zip”** copy the “.pt” and “.pkl” files in it and save them in the same directory as the “690\_final\_project.ipynb” that we provided.
-
-Create  a  virtual  environment  using  anaconda  (open  anaconda  prompt  on windows):
-
-
-
-|conda |c|reate --na||me mario |p|ython=|||
-| - | - | - | :- | - | - | - | :- | :- |
-||||||||||
-|conda |a|ctivate mario|||||||
-||||||||||
-Install Necessary Packages:
-
-
-
-|pip i|n|stall gym=|=|0\.17.2|
-| - | - | - | - | - |
-||||||
-|pip i|n|stall nes\_p|y||
-||||||
-|pip i|n|stall gym\_|s|uper\_mario\_bros==7.3.0|
-||||||
-|pip i|n|stall torch|v|ision|
-||||||
-|pip i|n|stall openc|v|-python|
-||||||
-|pip i|n|stall matpl|o|tlib|
-||||||
-|pip i|n|stall torch|v|ision|
-||||||
-pip3  install  torch  torchvision  torchaudio  --index-url https://download.pytorch.org/whl/cu121
-
-Open Jupyter:
-
-
-
-|pip i|n|stall jupyt|er||
-| - | - | - | - | :- |
-||||||
-jupyter notebook
-
-Now open “690\_final\_project.ipynb” file and run the cells. Take note of markdown cells (that are at the very end of the 690\_final\_project.ipynb file) that explain what cell to run to recreate the simulation using our trained model, or to train our model more, or to train the model from scratch.
 
 Results:
 
