@@ -3,7 +3,7 @@ AI Agent in action:
 ![Simulation 1250 episodes](Simulation_1250episodes.gif)
  
  
-Directions to run our code and simulate our results ** USING DOCKER:**:
+Directions to run our code and simulate our results USING DOCKER:
 
 
 
