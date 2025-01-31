@@ -3,9 +3,9 @@ AI Agent in action:
 ![Simulation 1250 episodes](Simulation_1250episodes.gif)
  
  
- There are two ways to run our code and simulate our results:
+Directions to run our code and simulate our results ** USING DOCKER:**:
 
-**WAY 1: USING DOCKER:**
+
 
 Note: Make sure your docker desktop is open when you run the below commands in command prompt to not face any errors. If docker desktop is not installed, please install it first and then run the below commands.
 
