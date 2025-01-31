@@ -51,6 +51,7 @@ Model trained for 700 episodes:
 Model trained for 1250 episodes: 
 
 [https://drive.google.com/file/d/1sDmT4OxLW16u8LjSfMeDprTD4lfKdk6R/view?usp=sha ring](https://drive.google.com/file/d/1sDmT4OxLW16u8LjSfMeDprTD4lfKdk6R/view?usp=sharing) 
+![Simulation 1250 episodes](Simulation_1250episodes.gif)
 
 I have also submitted these video files on canvas.
 
